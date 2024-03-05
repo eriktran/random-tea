@@ -1,0 +1,22 @@
+{
+  "name": "random-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eriktran/random-tea.git"
+  },
+  "author": "Erik Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eriktran/random-tea/issues"
+  },
+  "homepage": "https://github.com/eriktran/random-tea#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
