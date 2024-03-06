@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/eriktran/random-tea#readme",
   "dependencies": {
-    "express": "^4.18.3"
+    "cmaroind-tea": "^1.0.0",
+    "express": "^4.18.3",
+    "minti_fulkerson": "^1.0.0",
+    "tea-demonstration": "^1.0.0"
   }
 }
