@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eriktran/random-tea.git"
+    "url": "https://github.com/eriktran/random-tea.git"
   },
   "author": "Erik Tran",
   "license": "ISC",
